@@ -4,7 +4,6 @@ Project for Module 3 on Values and Mindset for Lambda Launch
 
 These tasks are to be completed during the project time for your track. For full time these tasks will be completed in the afternoons after lunch. For part time these tasks are completed every other day, on the opposite days of the guided project instruction.
 
-For these opt-in versions of Lambda Launch you will not be going over these assignments in your team lead groups at the end of the day, as you will be on an actual Lambda School day. 
 
 ## Lambda Lessons
 In these videos you will listen to successful Lambda Students and how they felt about their Lambda experience. 
